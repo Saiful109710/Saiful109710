@@ -40,10 +40,9 @@ An **interactive language-learning platform** focused on vocabulary improvement 
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Saiful109710&theme=tokyonight" width="48%" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saiful109710)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%" />
