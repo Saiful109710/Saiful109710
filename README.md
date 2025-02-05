@@ -33,7 +33,9 @@ A **Socket.io-powered chat application** for real-time messaging and group chats
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Saiful109710)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight)  
+<div align='center'>
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight' />
+</div>
 
 
 ## 📫 Let's Connect!  
