@@ -54,11 +54,10 @@ A **fun and interactive vocabulary learning app** that makes language learning e
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saiful109710)](https://git.io/streak-stats)
-<div align="center">
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Saiful109710&theme=tokyonight" alt="GitHub Streak" width="49%" />
-</div>
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Saiful109710)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight" alt="Most Used Languages" width="50%" />
