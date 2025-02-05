@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hi, I'm Saiful Islam  
+
+🚀 **MERN Stack Developer** | 💡 Passionate about building scalable web applications  
+![Profile Banner](https://i.ibb.co.com/tMxYHz28/github-header-image.png) <!-- Add a banner image if you want -->
 
 <!--
 **Saiful109710/Saiful109710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
