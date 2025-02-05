@@ -18,27 +18,24 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ## 🌟 Featured Projects  
-### 🏆 [Dream Scholar](https://your-project-link.com)  
+### 🏆 [Dream Scholar](https://scholarshipmanagment109710.netlify.app/)  
 A **scholarship management system** that helps students track and apply for scholarships easily.  
 
-### 💬 [Real-time Chat App](https://your-chat-app-link.com)  
+### 💬 [Learning Korean language](https://lingo-bingo-assignment9.netlify.app/)  
 A **Socket.io-powered chat application** for real-time messaging and group chats.  
-
-### 📱 [Social Media Platform](https://your-social-media-link.com)  
-A **unique social media platform** built with React and MongoDB.  
-
+ 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
 ## 📫 Let's Connect!  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saiful109710)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-islam-666208344/)  
+
 
 ---  
 
-### **Thanks for stopping by! Happy coding! 🚀**  
+###  Happy coding! 🚀**  
 
 <!--
 **Saiful109710/Saiful109710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
