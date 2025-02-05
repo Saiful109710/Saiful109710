@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Saiful Islam  
 
 🚀 **MERN Stack Developer** | 💡 Passionate about building scalable web applications  
-![Header](./https://i.ibb.co.com/YTL2cJt2/github-header-image-1.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/YTL2cJt2/github-header-image-1.png" alt="Banner" width="100%" />
+</p>
 
 
 
