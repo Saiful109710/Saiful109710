@@ -25,8 +25,8 @@ A **scholarship management system** that helps students track and apply for scho
 A **Socket.io-powered chat application** for real-time messaging and group chats.  
  
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saiful109710&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight)  
 
 ## 📫 Let's Connect!  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saiful109710)  
