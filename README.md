@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/rGkvmQZc/web-design-concept-with-drawings.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/0RHtY01d/2529-generated.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Saiful! 🚀</h1>
