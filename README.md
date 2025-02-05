@@ -16,12 +16,14 @@
 - 🌍 I love creating **social media platforms, real-time chat apps, and interactive websites**  
 
 ## 🔧 Tech Stack  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+</p>
 
 ## 🌟 Featured Projects  
 ### 🏆 [Dream Scholar](https://scholarshipmanagment109710.netlify.app/)  
@@ -32,9 +34,11 @@ A **Socket.io-powered chat application** for real-time messaging and group chats
  
 ## 📊 GitHub Stats  
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight)
+<p align='center'>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Saiful109710)](https://git.io/streak-stats)
+</p>
 
 ## 📫 Let's Connect!  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saiful109710)  
@@ -43,7 +47,9 @@ A **Socket.io-powered chat application** for real-time messaging and group chats
 
 ---  
 
-###  Happy coding! 🚀**  
+<p align='center'>
+  ###  Happy coding! 🚀** 
+</p>
 
 <!--
 **Saiful109710/Saiful109710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
