@@ -15,6 +15,7 @@
 - 📚 **Currently Learning:** AI, App Development, and Data Structures & Algorithms  
 - 🏆 **Building Projects:** Social media platforms, chat apps, and interactive web apps  
 - 🌟 **Aspiration:** Creating unique and seamless digital experiences for users  
+- 💡 Fun fact: I love exploring **new technologies** and **solving real-world problems**! 😄
 
 ---
 
@@ -49,19 +50,26 @@
 A **scholarship management system** helping students **track and apply for scholarships** with ease.  
 
 ### 💬 [📖 Learning Korean Language](https://lingo-bingo-assignment9.netlify.app/)  
-A **fun and interactive vocabulary learning app** that makes language learning engaging.  
+A **Socket.io-powered chat application** for **real-time messaging** and **group chats**.  
 
 ---
 
 ## 📊 GitHub Stats  
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saiful109710)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saiful109710&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Saiful109710&theme=tokyonight" alt="GitHub Streak" width="49%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful109710&layout=compact&theme=tokyonight" alt="Most Used Languages" width="50%" />
 </div>
+
+---
+
+## 💬 Dynamic Info  
+**Current Project**: Developing a **real-time chat app** using **Socket.io** 🎮  
+**Open Source Contribution**: Actively contributing to **React.js** projects 🌱
 
 ---
 
@@ -73,10 +81,20 @@ A **fun and interactive vocabulary learning app** that makes language learning e
   <a href="https://linkedin.com/in/saiful-islam-666208344/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:saiful@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🎯 Fun Facts  
+- 💥 My journey started with **HTML & CSS**, and now I'm into **React.js** and **Node.js**!  
+- 🌍 I enjoy learning about **new technologies** and **creating projects** that solve real-world problems.
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Happy+Coding!+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
+
