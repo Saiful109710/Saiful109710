@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saiful Islam  
 
 🚀 **MERN Stack Developer** | 💡 Passionate about building scalable web applications  
-![Profile Banner]([https://i.ibb.co.com/tMxYHz28/github-header-image.png](https://i.ibb.co.com/YTL2cJt2/github-header-image-1.png)) <!-- Add a banner image if you want -->
+![Profile Banner](https://i.ibb.co.com/YTL2cJt2/github-header-image-1.png) <!-- Add a banner image if you want -->
 
 ## 🔥 About Me  
 - 💻 I specialize in **React, Node.js, Express, MongoDB, JavaScript, and Tailwind**  
